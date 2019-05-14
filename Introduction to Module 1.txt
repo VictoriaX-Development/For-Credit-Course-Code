@@ -1,0 +1,30 @@
+<p>A SHORT PARAGRAPH EXPLAINING WHAT THIS MODULE IS ABOUT</p>
+<p>Ko te moemoea a Maui kia haere ngatahi ai ratou ko ona tuakana ki te hii ika. I te hokinga mai o ona tuakana ki tatahi, ka kii atu a Maui, “ka taea e au te haramai i to koutou na taha ki te hii ika?” Engari, ko te whakautu o ona tuakana ki a ia ano, “Kao, he rangatahi noa iho koe. Kaore he wahi mau kei te waka nei, na reira me noho tau ki tatahi ke”.</p>
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<h3>What are you going to learn?</h3>
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2446114-dt-content-rid-7001560_1/xid-7001560_1" style="border-radius: 50%; border: solid .2em #166e8e; width: 10em; height: auto; background: #a6c8d4; margin: 0 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="Cute llama" />By the end of this module, you'll be able to:</p>
+<ul>
+<li>Do a thing</li>
+<li>Do another thing</li>
+<li>Do a third thing</li>
+</ul>
+</div>
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #f3e7eb; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<h3>What are you going to do?</h3>
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2446114-dt-content-rid-7003623_1/xid-7003623_1" style="border-radius: 50%; border: solid .2em #8e163e; width: 10em; height: auto; background: #d4a6b6; margin: 0 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="checklist icon" />Throughout this module you will:</p>
+<ul>
+<li>Watch <strong>X</strong> videos</li>
+<li>Do <strong>Y</strong> activities</li>
+<li>Read <strong>Z</strong> articles</li>
+<li>Take <strong>one</strong> quiz</li>
+<li>Post <strong>one</strong> blog and make at least <strong>two</strong> comments on other blogs</li>
+</ul>
+</div>
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #f0f0f0; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<h3>Dates</h3>
+<img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2446114-dt-content-rid-6833895_1/xid-6833895_1" style="border-radius: 50%; border: solid .2em #666; width: 10em; height: auto; background: #bbb; margin: 0 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="calendar" />
+<ul>
+<li><strong>Learning Dates:</strong> Monday 4 March to Friday 15 March</li>
+<li><strong>Assessment Due Date:</strong> Monday 18 March</li>
+</ul>
+</div>

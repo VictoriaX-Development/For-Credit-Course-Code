@@ -1,0 +1,25 @@
+<div><!-- left-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2429886-dt-content-rid-6863156_1/xid-6863156_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="Two llamas sitting down" />
+<h3>Llama Wikipedia Page</h3>
+<p style="text-align: left;">You can get an overview about llamas on wikipedia. As always, be sceptical of everything you read on wikipedia, and don't use it as a citation source in your assignments.</p>
+<p><a href="https://en.wikipedia.org/wiki/Llama" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'" target="_blank">Read More  ➟</a></p>
+</div>
+<!-- middle left-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2429886-dt-content-rid-6863158_1/xid-6863158_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="llama face" />
+<h3>National Geographic Llama Page</h3>
+<p style="text-align: left;">A brief summary of llamas on the National Geographic Webpage. There are some high quality photos here.</p>
+<p><a href="https://blackboard.vuw.ac.nz/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_14_1" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'" target="_blank">Read More  ➟</a></p>
+</div>
+<!-- middle right-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2429886-dt-content-rid-6863159_1/xid-6863159_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="llamacorn" />
+<h3>Llama Facts</h3>
+<p style="text-align: left;">Some cool llama facts for cool kidz.</p>
+<p><a href="http://www.softschools.com/facts/animals/llama_facts/130/" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'">Read More  ➟</a></p>
+</div>
+<!-- right-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2429886-dt-content-rid-6863160_1/xid-6863160_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="emo llama" />
+<h3>Llamas and Pajamas</h3>
+<p style="text-align: left;">Gllamarous!</p>
+<p><a href="https://www.vogue.com/tag/franchise/llamas-and-pajamas" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'" target="_blank">Read More  ➟</a></p>
+</div>
+</div>

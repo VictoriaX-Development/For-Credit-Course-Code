@@ -1,0 +1,17 @@
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<h3>Module Assessment</h3>
+<img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2450040-dt-content-rid-6834842_1/xid-6834842_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 10em; height: auto; background: #a6c8d4; margin: 1em 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="quiz icon" />
+<p>There are three assessment tasks for this module:</p>
+<ul>
+<li><strong>Task 1:</strong> A <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2438007_1&amp;course_id=_104330_1" target="_blank">quiz</a> </li>
+<li><strong>Task 2:</strong> A <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2439722_1&amp;course_id=_104330_1" target="_blank">blog</a> post</li>
+<li><strong>Task 3:</strong> <a href="https://blackboard.vuw.ac.nz/webapps/discussionboard/do/forum?action=list_threads&amp;course_id=_104330_1&amp;forum_id=183385&amp;nav=discussion_board&amp;conf_id=_182192_1&amp;content_id=_2440858_1" target="_blank">Commenting</a> on your classmates' blogs</li>
+</ul>
+<p>Go to the <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2419765_1&amp;course_id=_104330_1" target="_blank">Assessment folder</a> to find out more.</p>
+</div>
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #f3e7eb; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<h3>Presentation Project</h3>
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2450040-dt-content-rid-6923159_1/xid-6923159_1" style="border-radius: 50%; border: solid .3vw #8E163E; width: 10em; height: auto; background: #d4a6b6; margin: 0 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="project icon" /><a id="project"></a></p>
+<p>There are <strong>no</strong> parts of your project assessment due during this module.</p>
+<p>The next piece of project you have to do is the Project Outline, due <strong>Monday 29 April</strong></p>
+</div>

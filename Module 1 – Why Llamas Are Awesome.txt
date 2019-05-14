@@ -1,0 +1,6 @@
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2426002-dt-content-rid-6844904_1/xid-6844904_1" style="width: 50%; height: auto; float: right; margin: 0 0 1em 2em;" alt="llama on a field.  Text says LLAMAS101 Why Llamas Are Awesome" /></p>
+<div style="border-radius: 5em 1em 1em 5em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; box-shadow: -.5em .5em 1em #eee;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2426002-dt-content-rid-6844059_1/xid-6844059_1" style="border-radius: 50%; border: solid .2em #166e8e; width: 8em; height: auto; background: #a6c8d4; margin: 0 2em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="Alana llama" />
+<h3>Dates</h3>
+<p><strong>Learning Dates:</strong> Monday 4 March to Friday 15 March<br /><strong>Final Due Date:</strong> Monday 18 March</p>
+</div>
+<p>We start off the course by looking at why llamas are awesome.  We'll examine what actually is a llama, how llamas are superior to all other animals, and how they compare to their cousins, the alpaca (spoilers – llamas rule).</p>

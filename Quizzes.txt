@@ -1,0 +1,9 @@
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2438007-dt-content-rid-6922051_1/xid-6922051_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 10em; height: auto; background: #a6c8d4; margin: 0 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="QUIZ icon" /><a id="quiz"></a></p>
+<ul>
+<li><strong>Number:</strong> 6</li>
+<li><strong>Total Grade Percent:</strong> 24%</li>
+<li><strong>Percent Per Quiz:</strong> 4%</li>
+<li><strong>Due:</strong> Monday after each module ends</li>
+</ul>
+</div>

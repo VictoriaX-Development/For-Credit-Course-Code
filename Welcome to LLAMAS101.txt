@@ -1,0 +1,45 @@
+<div style="width: 100%; margin: 0 0 2em 0;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2420170-dt-content-rid-6833859_1/xid-6833859_1" style="width: 100%; height: auto; border-radius: 0 0 1em 1em; box-shadow: 0 .5em 1em #eee; border-bottom: solid .3em #166E8E;" alt="LLAMAS101 banner" /></div>
+<div style="width: calc(90% + 4em);">
+<div style="padding: 1.5em; background: #cedfe5; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; width: 40%; float: right; margin: 0 0 2em 2em; box-sizing: border-box; min-width: 330px; border: solid .1em #166E8E;">
+<div style="text-align: center;">
+<div style="margin: 0 2% 1.5em 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 0 2% 1.5em 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 0 2% 1.5em 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 0 2% 1.5em 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 0 2% 1.5em 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+</div>
+<div style="background: white; border-radius: 1em; width: 100%; padding: 1.5em; margin: 0; box-sizing: border-box; border: solid .1em #166E8E;">
+<h3>Welcome Video</h3>
+<p>Watch this video to get an overview of what our Llama course is about.</p>
+<div style="position: relative; padding-bottom: 56.25%; /* 16: 9 */
+	padding-top: 25px; height: 0;"><iframe width="560" height="315" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/hYWHJwyO5Gs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p style="padding-top: 1em;"><em>Run time: 2:46</em></p>
+</div>
+<div style="text-align: center;">
+<div style="margin: 1.5em 2% 0 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 1.5em 2% 0 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 1.5em 2% 0 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 1.5em 2% 0 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+<div style="margin: 1.5em 2% 0 2%; width: 15%; height: 2em; background: white; border-radius: 5px; display: inline-block; border: solid .1em #166E8E; box-sizing: border-box;"></div>
+</div>
+</div>
+<div style="min-width: 250px; overflow: hidden; margin-right: 2em:;">
+<div style="overflow: hidden;">
+<p>Hello everyone</p>
+<p>Welcome to LLAMAS101 – Foundations of Llamatology.  Over the next 14 weeks, you'll join us for an in depth look at some of the most important features of llamas, and their lesser cousins, alpacas.</p>
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<h3>What are you going to learn?</h3>
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2420170-dt-content-rid-7001560_1/xid-7001560_1" style="border-radius: 50%; border: solid .2em #166e8e; width: 8em; height: auto; background: #a6c8d4; margin: 0 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="Cute llama" />By the end of the course, you'll be able to:</p>
+<ul>
+<li>Describe the important features of llamas</li>
+<li>Contrast llamas with other animals</li>
+<li>Explain why llamas are awesome</li>
+<li>Present cool llama information to a chosen audience</li>
+</ul>
+</div>
+<p>This course is fully online. That means that all of your lecture videos, activities, readings, and assignment instructions will be given to you on Blackboard. Most of your interaction with your lecturers will online as well, mostly in the discussion boards. If you're ever in Wellington, you're  also welcome to talk to us in person.</p>
+<p style="text-align: right;">Alana and Quinton</p>
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2420170-dt-content-rid-6826097_1/xid-6826097_1" style="border-radius: 50%; border: solid .1em #8e163e; width: 4em; height: auto; max-width: 50px; background: #e5ced5; float: right; margin: .2em;" alt="hedgehog" /><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2420170-dt-content-rid-6826096_1/xid-6826096_1" style="border-radius: 50%; border: solid .1em #166e8e; width: 4em; height: auto; max-width: 50px; background: #cedfe5; float: right; margin: .2em;" alt="llama" /></p>
+</div>
+</div>
+</div>

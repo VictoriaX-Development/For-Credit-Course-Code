@@ -1,0 +1,26 @@
+<p style="overflow: hidden;">If you can't find your answer within these FAQ pages, try one of these other places</p>
+<div><!-- left-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2424404-dt-content-rid-6831734_1/xid-6831734_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="speech bubbles in a circle" />
+<h3>Discussion Board</h3>
+<p style="text-align: left;">The first place to go for help is the Discussion Board. You'll find places to read and post discussions for each module, as well as a Help! forum for any other questions. Feel free to reply to any of your classmates questions if you think you know the answer.</p>
+<p><a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/launchLink.jsp?course_id=_104330_1&amp;tool_id=_2060_1&amp;tool_type=TOOL&amp;mode=cpview&amp;mode=reset" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'" target="_blank">Discussion Board  ➟</a></p>
+</div>
+<!-- middle left-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2424404-dt-content-rid-6831870_1/xid-6831870_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="arrow clicking" />
+<h3>Blackboard Support</h3>
+<p style="text-align: left;">The Blackboard Support tab, located in the top right corner of the Blackboard page, has a list of common FAQs for students. There's a good chance that you'll find your answers there.</p>
+<p><a href="https://blackboard.vuw.ac.nz/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_14_1" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'" target="_blank">Blackboard Support  ➟</a></p>
+</div>
+<!-- middle right-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2424404-dt-content-rid-6831990_1/xid-6831990_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="llama and hedgehog" width="600" height="600" />
+<h3>Email Us</h3>
+<p style="text-align: left;">If you need to contact us directly you can send us an email. We especially want to hear from you if you want to discuss something you don't want on the public discussion boards.</p>
+<p><a href="mailto:fake.email@vuw.ac.nz" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'">Contact Us  ➟</a></p>
+</div>
+<!-- right-->
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 200px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2424404-dt-content-rid-6831998_1/xid-6831998_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="head with cogs in the brain" />
+<h3>Learning Support</h3>
+<p style="text-align: left;">The <em>Extend Your Learning</em> page on the Victoria website has a great collection of places you can get help and support even when you're not physically on campus, including Student Learning and Disability Services</p>
+<p><a href="https://www.victoria.ac.nz/students/support/learning" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'" target="_blank">Learning Support  ➟</a></p>
+</div>
+</div>

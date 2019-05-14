@@ -1,0 +1,20 @@
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; display: inline-block; vertical-align: top;">
+<p>There are two types of assessment for this course. </p>
+<ol>
+<li><strong style="color: #166e8e;">Module assessments</strong> – 60% of overall grade</li>
+<li><strong style="color: #8e163e;">Overall presentation project</strong> – 40% of overall grade</li>
+</ol>
+<p>Each assessment type is broken into smaller pieces.  The table below shows the due dates and grade percentages for each piece.  You'll find more specific information about the assessment tasks in the folders below.</p>
+</div>
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 150px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2430141-dt-content-rid-6923406_1/xid-6923406_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="quiz icon" />
+<p>Quizzes are one part of the assessment for each module.</p>
+<p><a href="#quiz" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'">Quizzes  ➟</a></p>
+</div>
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 150px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2430141-dt-content-rid-6923407_1/xid-6923407_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 90%; height: auto; background: #cedfe5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="blog icon" width="500" height="500" />
+<p>Blogs and discussions are the second part of assessment for each module.</p>
+<p><a href="#blog" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #166e8e; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#166e8e'">Blogs  ➟</a></p>
+</div>
+<div style="box-sizing: border-box; width: calc(24% - 2em); margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top; min-width: 150px; max-width: 300px; text-align: center;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2430141-dt-content-rid-6923408_1/xid-6923408_1" style="border-radius: 50%; border: solid .3vw #8E163E; width: 90%; height: auto; background: #E5CED5; margin: 1em auto; box-sizing: border-box; overflow: hidden;" alt="project icon" />
+<p>The overall assessment for the course is a presentation project.</p>
+<p><a href="#project" style="transition: background-color .5s ease-in; display: inline-block; padding: 1em 2em; border-radius: 2em; text-decoration: none; font-weight: bold; background: #8E163E; color: white;" onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#8E163E'">Project  ➟</a></p>
+</div>

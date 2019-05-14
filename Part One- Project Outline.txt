@@ -1,0 +1,19 @@
+<div style="width: 15%; overflow: hidden; display: inline-block; margin: 0 3em 0 0; box-sizing: border-box; vertical-align: top;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2440752-dt-content-rid-6930174_1/xid-6930174_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 100%; height: auto; background: #cedfe5; overflow: hidden; box-sizing: border-box;" alt="project outline icon" width="500" height="500" /> <a id="draft"></a></div>
+<div style="width: 75%; overflow: hidden; display: inline-block; margin: 0 3em 0 0; box-sizing: border-box;">
+<h4>Your Project Outline</h4>
+<p>A plan of what you are going to focus on for your final project.  This includes the choice of what format you are going to use,  e.g. video, poster, report, presentation. </p>
+<div style="border-radius: 10em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<ul>
+<li><strong>Due:</strong>  Monday 29 April</li>
+<li><strong>Percentage:</strong> 5%</li>
+</ul>
+</div>
+<h4>Feedback for Your Classmates</h4>
+<p>Read two of your classmates' outlines, and give them constructive feedback.</p>
+<div style="border-radius: 10em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<ul>
+<li><strong>Due:</strong> Friday 3 May</li>
+<li><strong>Percentage:</strong> 2.5%</li>
+</ul>
+</div>
+</div>

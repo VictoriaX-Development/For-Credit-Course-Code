@@ -1,0 +1,14 @@
+<div style="box-sizing: border-box; width: 45%; margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2420171-dt-content-rid-6821699_1/xid-6821699_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 30%; height: auto; max-width: 500px; background: #cedfe5; float: right; margin: 1em;" alt="llama picture" />
+<h3 style="font-size: large;">Prof Alana Llama</h3>
+<p><em>Course Coordinator</em></p>
+<p style="padding: 1em;"><strong>Email:</strong> <a>Alana.Llama@vuw.ac.nz</a><br /><strong>Phone:</strong> <a>04 463 1234</a> <br /> <strong>Office:</strong> ABC123, Zoom room <a>1234 5678</a><br /><strong>Virtual Office Hours:</strong> Mondays <strong>10 – 11 am</strong>, Wednesdays <strong>3 – 5 pm</strong></p>
+<p>I'm your course coordiator for LLAMAS101. This means that you can come to me with any questions you have about how the course is running. I'll also be teaching the first module, on Why Llamas Are Awesome.</p>
+<p>At the moment, I'm researching into why llamas are cool, and how alpacas compare to llamas. You can find out more on my <a href="http://justfunfacts.com/interesting-facts-about-llamas/" target="_blank">Staff Profile</a> page. In my spare time, I run a regular grass tasting catch up for the local Ungluate community.</p>
+</div>
+<div style="box-sizing: border-box; width: 45%; margin: 1em; padding: 1em; border: solid 1px #aaa; border-radius: 1em; box-shadow: -.5em .5em 1em #eee; overflow: hidden; display: inline-block; vertical-align: top;"><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2420171-dt-content-rid-6828053_1/xid-6828053_1" style="border-radius: 50%; border: solid .3vw #8e163e; width: 30%; height: auto; max-width: 500px; background: #e5ced5; float: right; margin: 1em;" alt="hedgehog picture" />
+<h3 style="font-size: large;">Dr Quinton Quilton</h3>
+<p><em>Instructor</em></p>
+<p style="padding: 1em;"><strong>Email:</strong> <a>Quinton.Quilton@vuw.ac.nz</a><br /><strong>Phone:</strong> <a>04 463 5678</a> <br /> <strong>Office:</strong> ABC124, Zoom room <a>1234 5678</a><br /><strong>Virtual Office Hours:</strong> Tuesdays <strong>10 – 11 am</strong>, Thursdays <strong>3 – 5 pm</strong></p>
+<p>Hi everyone. This is my first year lecturing on LLAMAS101. I'm teaching modules 2 and 3, Wool and Weaving, and How to Spit Far.</p>
+<p>While I'm new to Victoria and the field of llama research, at my previous institution I researched camels, which are related. My publication list is on my <a href="https://twitter.com/daily__hedgehog" target="_blank">Staff Profile</a> page. I'm an avid table top gamer, and have also competed internationally in curling.</p>
+</div>

@@ -1,0 +1,9 @@
+<div style="border-radius: 1em 10em 10em 1em; box-sizing: border-box; background: #e7f0f3; padding: 1em; margin: 0 0 1em 1em; overflow: hidden; box-shadow: -.5em .5em 1em #eee;">
+<p><img src="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2423718-dt-content-rid-6833890_1/xid-6833890_1" style="border-radius: 50%; border: solid .3vw #166e8e; width: 10em; height: auto; background: #a6c8d4; margin: 1em 3em 0 0; box-sizing: border-box; overflow: hidden; float: left;" alt="llama over an arrow" /></p>
+<ol>
+<li>Look through the <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/launchLink.jsp?course_id=_104330_1&amp;content_id=_2424406_1" target="_blank" title="Opens new tab">Course Outline</a></li>
+<li>Familiarise yourself with the other information available on the <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2424396_1&amp;course_id=_104330_1" target="_blank" title="Opens new tab">About the Course</a> FAQ pages</li>
+<li>Make sure you're aware of what the <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2419765_1&amp;course_id=_104330_1" target="_blank" title="Opens new tab">Assessments</a> are and when they're due</li>
+<li>Introduce yourself in the <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/launchLink.jsp?course_id=_104330_1&amp;content_id=_2446051_1" target="_blank" title="Opens new tab">Introduction Discussion Forum</a></li>
+<li>Get started on <a href="https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_2426002_1&amp;course_id=_104330_1" target="_blank" title="Opens new tab">Module 1</a></li>
+</ol></div>

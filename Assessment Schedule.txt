@@ -1,0 +1,66 @@
+<table border="1" cellpadding="10" cellspacing="0" style="margin: 1em; border: 1px solid #166e8e; box-shadow: -.5em .5em 1em #eee;">
+<tbody>
+<tr style="background: #73A8BB;"><th><span style="color: #ffffff; font-size: large;"><strong>Assessment Task</strong></span></th><th><span style="color: #ffffff; font-size: large;"><strong>Due Date</strong></span></th><th><span style="color: #ffffff; font-size: large;"><strong>Grade Percentage</strong></span></th></tr>
+<tr>
+<td>M1 blog, discussion and quiz</td>
+<td> Monday 18 March</td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr>
+<td>M2 blog, discussion and quiz </td>
+<td>Monday 1 April </td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr>
+<td>M3 blog, discussion and quiz</td>
+<td>Monday 15 April </td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr style="background: #e7f0f3;">
+<td>Project Outline</td>
+<td>Monday 29 April</td>
+<td style="text-align: right;">5%</td>
+</tr>
+<tr style="background: #e7f0f3;">
+<td>Project Outline Feedback </td>
+<td>Friday 3 May </td>
+<td style="text-align: right;">2.5%</td>
+</tr>
+<tr>
+<td>M4 blog, discussion and quiz</td>
+<td>Monday 13 May</td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr>
+<td>M5 blog, discussion and quiz</td>
+<td>Monday 27 May</td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr style="background: #e7f0f3;">
+<td>Project Content Draft</td>
+<td>Friday 31 May </td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr style="background: #e7f0f3;">
+<td>Project Content Draft Feedback</td>
+<td>Tuesday 4 June </td>
+<td style="text-align: right;">2.5%</td>
+</tr>
+<tr>
+<td>M6 blog, discussion and quiz</td>
+<td>Monday 10 June </td>
+<td style="text-align: right;">10%</td>
+</tr>
+<tr style="background: #e7f0f3;">
+<td>Final Project Product</td>
+<td>Monday 24 June </td>
+<td style="text-align: right;">15%</td>
+</tr>
+<tr style="background: #e7f0f3;">
+<td>Final Project Explanation</td>
+<td>Friday 28 June </td>
+<td style="text-align: right;">5%</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://blackboard.vuw.ac.nz/bbcswebdav/pid-2439854-dt-content-rid-6867154_1/xid-6867154_1">Download pdf version</a></p>
